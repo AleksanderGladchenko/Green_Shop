@@ -5,9 +5,8 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/green.css">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-    <link rel="stylesheet" href="css/test.scss">
+    <link rel="stylesheet" href="css/green.css">
 
     <!--    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>-->
     <!--    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
@@ -66,8 +65,12 @@
                 <img src="img/basket.svg" alt="basket">
             </a>
 
-            <!--            <a href="../JS1/Registration/404.html" class="login">-->
-            <a href="reg/404.html" class="login">
+            <a href="reg/404.html" class="login" id="loginLink">
+                <div class="loader-wrapper" id="loader">
+                    <div class="loader"></div>
+                </div>
+
+
 
 
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -649,24 +652,7 @@
 
 </main>
 
+<script src="js.js" defer></script>
 
 </body>
-
-<!--<script>-->
-<!--    $(function () {-->
-<!--        $("#price-range").slider({-->
-<!--            range: true,-->
-<!--            min: 39,-->
-<!--            max: 1230,-->
-<!--            values: [39, 1230],-->
-<!--            slide: function (event, ui) {-->
-<!--                $("#price-min-display").text("$" + ui.values[0]);-->
-<!--                $("#price-max-display").text("$" + ui.values[1]);-->
-<!--            }-->
-<!--        });-->
-<!--        $("#price-min-display").text("$" + $("#price-range").slider("values", 0));-->
-<!--        $("#price-max-display").text("$" + $("#price-range").slider("values", 1));-->
-<!--    });-->
-
-<!--</script>-->
 </html>
