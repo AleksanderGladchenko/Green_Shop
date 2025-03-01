@@ -6,5 +6,5 @@ document.getElementById('loginLink').addEventListener('click', function(event) {
 
     setTimeout(function() {
         window.location.href = event.target.href;
-    }, 2000); // 2 секунды задержки
+    }, 500); // 2 секунды задержки
 });
