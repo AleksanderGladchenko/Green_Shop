@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c395f3-f643-47de-bc04-f5923c1fc021" name="Changes" comment="" />
+    <list default="true" id="26c395f3-f643-47de-bc04-f5923c1fc021" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/macbookpro/Downloads/JS/untitled1",
+    "last_opened_file_path": "/Users/macbookpro/Downloads/JS/untitled1/js",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +70,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/reg" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reg" />
@@ -94,7 +99,8 @@
       <workItem from="1740427651583" duration="460000" />
       <workItem from="1740514962378" duration="5284000" />
       <workItem from="1740824452852" duration="2874000" />
-      <workItem from="1741107975631" duration="6164000" />
+      <workItem from="1741107975631" duration="6837000" />
+      <workItem from="1741522400777" duration="4582000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -160,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740827166079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="04/03/25">
+      <option name="closed" value="true" />
+      <created>1741116274550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741116274550</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +184,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="01/03/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="01/03/25" />
+    <MESSAGE value="04/03/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="04/03/25" />
   </component>
 </project>

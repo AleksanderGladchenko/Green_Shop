@@ -535,6 +535,10 @@ header .login:hover svg {
   gap: 20px;
 }
 
+.container-flower-blogs {
+  display: flex;
+}
+
 .container-flower-text {
   position: relative;
   width: 586px;
@@ -895,6 +899,9 @@ header .login:hover svg {
   100% {
     transform: rotate(360deg);
   }
+}
+.container-flower .owl-carousel {
+  width: 100%;
 }
 
 /*# sourceMappingURL=easy.css.map */

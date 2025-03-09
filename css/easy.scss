@@ -614,6 +614,10 @@ header .login {
   gap: 20px;
 }
 
+.container-flower-blogs{
+  display: flex;
+}
+
 .container-flower-text {
   position: relative;
 
@@ -938,7 +942,7 @@ header .login {
     padding-bottom: 10px;
   }
 
-  .footer-block-bottom-Social-Media{
+  .footer-block-bottom-Social-Media {
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -1013,4 +1017,8 @@ header .login {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.container-flower .owl-carousel{
+  width: 100%;
 }
